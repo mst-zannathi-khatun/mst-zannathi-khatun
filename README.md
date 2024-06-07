@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-
-
-
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/linkedin.svg" alt="LinkedIn" style="width:32px;height:32px;">
 </a>
