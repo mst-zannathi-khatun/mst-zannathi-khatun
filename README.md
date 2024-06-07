@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-[![LinkedIn]([https://example.com/path/to/linkedin.png](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png))](https://www.linkedin.com/in/zannathi/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/your-profile)
 
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="32" height="32">
+</a>
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/linkedin.svg" alt="LinkedIn" style="width:32px;height:32px;">
+</a>
 
 <!--
 **mst-zannathi-khatun/mst-zannathi-khatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
