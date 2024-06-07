@@ -1,7 +1,21 @@
 ## Hi there 👋
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/linkedin.svg" alt="LinkedIn" style="width:32px;height:32px;">
-</a>
+# [Your Name]
+
+## [Your Title]
+
+<!-- Main Profile Information -->
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
 
 <!--
 **mst-zannathi-khatun/mst-zannathi-khatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
