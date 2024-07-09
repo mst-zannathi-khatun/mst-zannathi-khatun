@@ -1,18 +1,14 @@
 ## Welcome to my github profile 👋
-# [Mst Zannathi Khatun]
-
-## [Senior Flutter Developer]
+# Mst Zannathi Khatun
+### Senior Flutter Developer
 
 <!-- Main Profile Information -->
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://www.youtube.com/@mstzannathikhatun" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/zannathi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
