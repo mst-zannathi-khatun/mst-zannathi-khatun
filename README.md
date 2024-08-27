@@ -20,15 +20,20 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-**mst-zannathi-khatun/mst-zannathi-khatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I am Mst Zannathi Khatun, a passionate Junior Flutter Developer with a strong focus on creating high-quality mobile applications. My journey in app development has been driven by a commitment to continuous learning and staying up-to-date with the latest industry trends. With a solid foundation in Flutter, I am dedicated to building seamless, cross-platform applications that provide excellent user experiences.
 
-Here are some ideas to get you started:
+#### Working Area
+Mobile Application Development using Flutter
+Cross-Platform App Development
+UI/UX Design and Implementation
+Integration of RESTful APIs
+State Management with Provider, Riverpod, and Bloc
+Firebase Integration for Backend Solutions
+Responsive Design and Adaptation for Various Screen Sizes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Learning & Development
+Exploring advanced features of Flutter for optimized app performance
+Learning best practices for mobile app security and data management
+Enhancing skills in asynchronous programming and Flutter’s widget tree management
+Experimenting with animations and custom UI components for a richer user experience
