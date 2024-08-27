@@ -37,3 +37,9 @@ Exploring advanced features of Flutter for optimized app performance
 Learning best practices for mobile app security and data management
 Enhancing skills in asynchronous programming and Flutter’s widget tree management
 Experimenting with animations and custom UI components for a richer user experience
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+## Mst Zannathi Khatun's GitHub Stats
+![Mst Zannathi Khatun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
